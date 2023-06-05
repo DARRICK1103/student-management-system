@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\User\Desktop\Algorithm_project02\Algorithm_project02\Main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Data.cpp
+  Generating Code...
+C:\Users\User\Desktop\Algorithm_project02\Algorithm_project02\Data.cpp(383): warning C4715: 'Data::Search': not all control paths return a value
+  Algorithm_project02.vcxproj -> C:\Users\User\Desktop\Algorithm_project02\x64\Debug\Algorithm_project02.exe
